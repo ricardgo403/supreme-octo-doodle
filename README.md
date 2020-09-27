@@ -10,7 +10,10 @@ Crear los siguientes programas usando Golang:
 
 ### Signo zodiacal
 Programa para pedir al usuario el día y mes de nacimiento, y de acuerdo a su día y mes de nacimiento, mostrar en pantalla su signo zodiacal.
+
+
 ![Zodiac](img/zodiac.png)
+
 
 | Horóscopo \| Signo del zodiaco |                 Fechas                 |
 |:------------------------------:|:--------------------------------------:|
@@ -26,6 +29,7 @@ Programa para pedir al usuario el día y mes de nacimiento, y de acuerdo a su d�
 | Libra                          | Del 24 de septiembre al 23 de octubre  |
 | Escorpio                       | Del 24 de octubre al 22 de noviembre   |
 | Sagitario                      | Del 23 de noviembre al 21 de diciembre |
+
 ### Número *e*
 Cálculo del Número e:
 ![calcular e](img/e.png)
