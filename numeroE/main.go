@@ -17,7 +17,7 @@ func main() {
 	var count int
 	var sumatoria float64
 	fmt.Scan(&count)
-	for i := 0; i < count; i++ {
+	for i := 0; i <= count; i++ {
 		miFactorial := factorial(big.NewInt(int64(i)))
 		sumatoria += (1 / float64(miFactorial.Int64()))
 	}
